@@ -1,0 +1,5 @@
+- This is a 2 player game with 2 pushbuttons for each player.
+- Player scores are displayed below player number.
+- Player scoring 4 points wins the game.
+- Ball speed and pad sensitivity can be modified as per user.
+- For practical implementation uncomment random paramter as analog read 0 for more random ball play and comment prev random parameter.
