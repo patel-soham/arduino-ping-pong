@@ -5,3 +5,5 @@ A submission task for FOSSE Summer fellowship IIT Bombay. (Feb 2019 - Feb 2019)
 - Made a 2 player game using 16x2 LCD and 2 push-buttons for each player.
 
 ---
+
+![FOSSEE Arduino Task (1)](https://user-images.githubusercontent.com/40416883/197305546-3ee3480e-5639-4efa-ade4-2cdb50924b45.png)
