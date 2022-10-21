@@ -3,7 +3,7 @@
  * Each player gets 2 buttons to control pad upwards or downwards
  * 16x2 Alphanumeric LCD is taken as display unit
  * Developed by : Soham Patel
- * Date: 13 March 2019 
+ * Date: Feb 2019 
  * Contact : patelsoham002@gmail.com
  */
 #include<LiquidCrystal.h>
